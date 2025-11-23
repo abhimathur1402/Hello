@@ -132,3 +132,12 @@ Known Issues to Test
 The view_available_books() function could use tweaks so books show up right
 Book stock numbers don’t change right now while someone borrows or gives back a book
 Several people can't check out one copy at once right now
+
+# OUTPUT 1
+<img width="933" height="544" alt="image" src="https://github.com/user-attachments/assets/f84be44a-cb5e-4088-8472-54ccd626b087" />
+
+# OUTPUT 2
+<img width="932" height="547" alt="image" src="https://github.com/user-attachments/assets/d640e5bf-fecb-42e3-b2f5-90f01edf1907" />
+
+# OUTPUT 3
+<img width="929" height="548" alt="image" src="https://github.com/user-attachments/assets/f5ee9ccd-f40c-4fa6-bfc4-3839132805b0" />
